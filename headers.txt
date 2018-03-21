@@ -1,0 +1,41 @@
+Request URL:https://rate.tmall.com/list_detail_rate.htm?itemId=558420556696&spuId=878124235&sellerId=1917047079&order=3&currentPage=1&append=0&content=1&tagId=&posi=&picture=&ua=098%23E1hvGQvWvRyvUvCkvvvvvjiPPFzOAjYPP2dWgjEUPmPO6jEjnLshgjtPPLspAjrWRphvCvvvphmrvpvBCU2ytqgvvxx6EBYb3Oy3%2B2ejvpvhvUCvp2yCvvpvvhCv2QhvCvvvMMGCvpvVvUCvpvvvmphvLUhlnswaaBwt%2BF%2BDxG0xHEp7%2B3%2BiaNoAdX94jLRiSfpzHCHkoqmxdX94d568ifyArqKrEcqUa4g7%2BulAbMLXrqpAhjCwD70XdiTAVAuivpvUvvCCU1lScMuEvpvVvpCmpYFpKphv8vvvpV9vvvvvvvCmYvvv9OvvvhOVvvmCp9vvB9OvvUhKvvCVC9vv9oT5vpvhvvCCBUhCvvsNtg9GvldNz%2FYHyaQ%3D&isg=BHp6li-s9EeEaXiGMQVitDciy6Bcg5HDd9igPoRzao3BdxuxbLorFMDlwwurXnad&needFold=0&_ksTS=1521624182526_1138&callback=jsonp1139
+Request Method:GET
+Status Code:200 
+Remote Address:106.11.95.8:443
+Referrer Policy:unsafe-url
+content-encoding:gzip
+content-language:zh-CN
+content-type:text/html;charset=GBK
+date:Wed, 21 Mar 2018 09:23:12 GMT
+eagleeye-traceid:0bfa17f115216241921303133e0d62
+s:STATUS_NORMAL
+server:Tengine/Aserver
+status:200
+strict-transport-security:max-age=31536000
+timing-allow-origin:*
+vary:Accept-Encoding
+:authority:rate.tmall.com
+:method:GET
+:path:/list_detail_rate.htm?itemId=558420556696&spuId=878124235&sellerId=1917047079&order=3&currentPage=1&append=0&content=1&tagId=&posi=&picture=&ua=098%23E1hvGQvWvRyvUvCkvvvvvjiPPFzOAjYPP2dWgjEUPmPO6jEjnLshgjtPPLspAjrWRphvCvvvphmrvpvBCU2ytqgvvxx6EBYb3Oy3%2B2ejvpvhvUCvp2yCvvpvvhCv2QhvCvvvMMGCvpvVvUCvpvvvmphvLUhlnswaaBwt%2BF%2BDxG0xHEp7%2B3%2BiaNoAdX94jLRiSfpzHCHkoqmxdX94d568ifyArqKrEcqUa4g7%2BulAbMLXrqpAhjCwD70XdiTAVAuivpvUvvCCU1lScMuEvpvVvpCmpYFpKphv8vvvpV9vvvvvvvCmYvvv9OvvvhOVvvmCp9vvB9OvvUhKvvCVC9vv9oT5vpvhvvCCBUhCvvsNtg9GvldNz%2FYHyaQ%3D&isg=BHp6li-s9EeEaXiGMQVitDciy6Bcg5HDd9igPoRzao3BdxuxbLorFMDlwwurXnad&needFold=0&_ksTS=1521624182526_1138&callback=jsonp1139
+:scheme:https
+accept:*/*
+accept-encoding:gzip, deflate, br
+accept-language:zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+cookie:cna=9yWZEk8cGC0CAXFBzVlWrdkk; x=__ll%3D-1%26_ato%3D0; otherx=e%3D1%26p%3D*%26s%3D0%26c%3D0%26f%3D0%26g%3D0%26t%3D0; enc=lpj0a%2FrX%2Fi%2Bv2FVrpUoVfdqB62yGp2%2BBPjHmpATE7M6kmHZ97oGlXo%2B8wldsl76n1SCFanxcW0wCXOTHN5lBdw%3D%3D; hng=CN%7Czh-CN%7CCNY%7C156; t=fd9204cceef916329d0ec1de113df4b6; uc3=sg2=V3lD1FiCNWQC6%2FZBAMWXnwbI2nvVAhNzd6TEzD8dEC8%3D&nk2=rp5f7bmeSw%3D%3D&id2=VAMWpkhPPZm6&vt3=F8dBz4W%2BUiI3F56M%2Fa4%3D&lg2=VT5L2FSpMGV7TQ%3D%3D; tracknick=%5Cu671B%5Cu6708zzl; lgc=%5Cu671B%5Cu6708zzl; _tb_token_=5ee1ebb978698; cookie2=14adecad4410f82da0ad27c402defa08; _m_h5_tk=c8549a7f691d0247a40b61a0d18f5a19_1521625726741; _m_h5_tk_enc=39ad8ceeb4f484d3b4d9d16424a59424; isg=BL6-zNNYaNtgRbxSHdFuuBO-D9TAV-2_E7TkymjHZIHlC1_l0I63iGSNh9_HCnqR
+referer:https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.44b174a7okJPRS&id=558420556696&areaId=440100&user_id=1917047079&cat_id=2&is_b=1&rn=8bc9d6f4511a07b40466d361fc01e11b&sku_properties=10004:709990523
+user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+itemId:558420556696
+spuId:878124235
+sellerId:1917047079
+order:3
+currentPage:1
+append:0
+content:1
+tagId:
+posi:
+picture:
+ua:098#E1hvGQvWvRyvUvCkvvvvvjiPPFzOAjYPP2dWgjEUPmPO6jEjnLshgjtPPLspAjrWRphvCvvvphmrvpvBCU2ytqgvvxx6EBYb3Oy3+2ejvpvhvUCvp2yCvvpvvhCv2QhvCvvvMMGCvpvVvUCvpvvvmphvLUhlnswaaBwt+F+DxG0xHEp7+3+iaNoAdX94jLRiSfpzHCHkoqmxdX94d568ifyArqKrEcqUa4g7+ulAbMLXrqpAhjCwD70XdiTAVAuivpvUvvCCU1lScMuEvpvVvpCmpYFpKphv8vvvpV9vvvvvvvCmYvvv9OvvvhOVvvmCp9vvB9OvvUhKvvCVC9vv9oT5vpvhvvCCBUhCvvsNtg9GvldNz/YHyaQ=
+isg:BHp6li-s9EeEaXiGMQVitDciy6Bcg5HDd9igPoRzao3BdxuxbLorFMDlwwurXnad
+needFold:0
+_ksTS:1521624182526_1138
+callback:jsonp1139
